@@ -28,5 +28,3 @@ Upon successful completion of this subject, students will be able to:
 13. **Understand procedures and best practices for closing projects**, including documentation, evaluations, and lessons learned.
 
 ---
-
-### 🌐 [Seneca College of Applied Arts and Technology](https://www.senecacollege.ca/)
